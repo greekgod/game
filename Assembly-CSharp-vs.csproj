@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{08F3E54D-DC3F-4A82-2494-1E6D20C0E04C}</ProjectGuid>
+	<ProjectGuid>{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,6 +46,31 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\2D Plat\Scripts\BackgroundParallax.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\BackgroundPropSpawner.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\Bomb.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\BombPickup.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\CameraFollow_nameChangedToAvoidConflict.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\Destroyer.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\Enemy.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\FollowPlayer.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\Gun.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\HealthPickup.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\LayBombs.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\Pauser.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\PickupSpawner.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\PlayerControl.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\PlayerHealth.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\Remover.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\Rocket.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\Score.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\ScoreShadow.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\SetParticleSortingLayer.cs" />
+     <Compile Include="Assets\2D Plat\Scripts\Spawner.cs" />
+     <Compile Include="Assets\My Assets\Scripts\My_Enemy.cs" />
+     <Compile Include="Assets\My Assets\Scripts\My_Platformer2DUserControl.cs" />
+     <Compile Include="Assets\My Assets\Scripts\My_PlatformerCharacter2D.cs" />
+     <Compile Include="Assets\My Assets\Scripts\My_PlayerHealth.cs" />
      <Compile Include="Assets\Sample Assets\2D\Scripts\Camera2DFollow.cs" />
      <Compile Include="Assets\Sample Assets\2D\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Sample Assets\2D\Scripts\Platformer2DUserControl.cs" />
