@@ -44,7 +44,7 @@ public class My_PlayerHealth : MonoBehaviour
 				Destroy(col.gameObject);
 
 				// Increase the score by 100 points
-				score.score += 100;
+				//score.score += 100;
 
 			}else{
 
