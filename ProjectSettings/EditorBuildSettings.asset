@@ -9,3 +9,5 @@ EditorBuildSettings:
     path: Assets/2D Plat/Scenes/Level.unity
   - enabled: 1
     path: Assets/My Assets/Scenes/Main_Scene.unity
+  - enabled: 1
+    path: Assets/My Assets/Scenes/The_end.unity

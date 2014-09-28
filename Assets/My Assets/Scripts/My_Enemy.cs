@@ -63,7 +63,7 @@ public class My_Enemy : MonoBehaviour
 		ren.sprite = deadEnemy;
 		
 		// Increase the score by 100 points
-		score.score += 100;
+		//score.score += 100;
 		
 		// Set dead to true.
 		dead = true;
