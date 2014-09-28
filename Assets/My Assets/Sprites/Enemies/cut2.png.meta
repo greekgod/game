@@ -1,0 +1,2237 @@
+fileFormatVersion: 2
+guid: 7696f709e4e53ab468762b5cd6f30667
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cut2
+    21300002: cut2_0
+    21300004: cut2_1
+    21300006: cut2_2
+    21300008: cut2_3
+    21300010: cut2_4
+    21300012: cut2_5
+    21300014: cut2_6
+    21300016: cut2_7
+    21300018: cut2_8
+    21300020: cut2_9
+    21300022: cut2_10
+    21300024: cut2_11
+    21300026: cut2_12
+    21300028: cut2_13
+    21300030: cut2_14
+    21300032: cut2_15
+    21300034: cut2_16
+    21300036: cut2_17
+    21300038: cut2_18
+    21300040: cut2_19
+    21300042: cut2_20
+    21300044: cut2_21
+    21300046: cut2_22
+    21300048: cut2_23
+    21300050: cut2_24
+    21300052: cut2_25
+    21300054: cut2_26
+    21300056: cut2_27
+    21300058: cut2_28
+    21300060: cut2_29
+    21300062: cut2_30
+    21300064: cut2_31
+    21300066: cut2_32
+    21300068: cut2_33
+    21300070: cut2_34
+    21300072: cut2_35
+    21300074: cut2_36
+    21300076: cut2_37
+    21300078: cut2_38
+    21300080: cut2_39
+    21300082: cut2_40
+    21300084: cut2_41
+    21300086: cut2_42
+    21300088: cut2_43
+    21300090: cut2_44
+    21300092: cut2_45
+    21300094: cut2_46
+    21300096: cut2_47
+    21300098: cut2_48
+    21300100: cut2_49
+    21300102: cut2_50
+    21300104: cut2_51
+    21300106: cut2_52
+    21300108: cut2_53
+    21300110: cut2_54
+    21300112: cut2_55
+    21300114: cut2_56
+    21300116: cut2_57
+    21300118: cut2_58
+    21300120: cut2_59
+    21300122: cut2_60
+    21300124: cut2_61
+    21300126: cut2_62
+    21300128: cut2_63
+    21300130: cut2_64
+    21300132: cut2_65
+    21300134: cut2_66
+    21300136: cut2_67
+    21300138: cut2_68
+    21300140: cut2_69
+    21300142: cut2_70
+    21300144: cut2_71
+    21300146: cut2_72
+    21300148: cut2_73
+    21300150: cut2_74
+    21300152: cut2_75
+    21300154: cut2_76
+    21300156: cut2_77
+    21300158: cut2_78
+    21300160: cut2_79
+    21300162: cut2_80
+    21300164: cut2_81
+    21300166: cut2_82
+    21300168: cut2_83
+    21300170: cut2_84
+    21300172: cut2_85
+    21300174: cut2_86
+    21300176: cut2_87
+    21300178: cut2_88
+    21300180: cut2_89
+    21300182: cut2_90
+    21300184: cut2_91
+    21300186: cut2_92
+    21300188: cut2_93
+    21300190: cut2_94
+    21300192: cut2_95
+    21300194: cut2_96
+    21300196: cut2_97
+    21300198: cut2_98
+    21300200: cut2_99
+    21300202: cut2_100
+    21300204: cut2_101
+    21300206: cut2_102
+    21300208: cut2_103
+    21300210: cut2_104
+    21300212: cut2_105
+    21300214: cut2_106
+    21300216: cut2_107
+    21300218: cut2_108
+    21300220: cut2_109
+    21300222: cut2_110
+    21300224: cut2_111
+    21300226: cut2_112
+    21300228: cut2_113
+    21300230: cut2_114
+    21300232: cut2_115
+    21300234: cut2_116
+    21300236: cut2_117
+    21300238: cut2_118
+    21300240: cut2_119
+    21300242: cut2_120
+    21300244: cut2_121
+    21300246: cut2_122
+    21300248: cut2_123
+    21300250: cut2_124
+    21300252: cut2_125
+    21300254: cut2_126
+    21300256: cut2_127
+    21300258: cut2_128
+    21300260: cut2_129
+    21300262: cut2_130
+    21300264: cut2_131
+    21300266: cut2_132
+    21300268: cut2_133
+    21300270: cut2_134
+    21300272: cut2_135
+    21300274: cut2_136
+    21300276: cut2_137
+    21300278: cut2_138
+    21300280: cut2_139
+    21300282: cut2_140
+    21300284: cut2_141
+    21300286: cut2_142
+    21300288: cut2_143
+    21300290: cut2_144
+    21300292: cut2_145
+    21300294: cut2_146
+    21300296: cut2_147
+    21300298: cut2_148
+    21300300: cut2_149
+    21300302: cut2_150
+    21300304: cut2_151
+    21300306: cut2_152
+    21300308: cut2_153
+    21300310: cut2_154
+    21300312: cut2_155
+    21300314: cut2_156
+    21300316: cut2_157
+    21300318: cut2_158
+    21300320: cut2_159
+    21300322: cut2_160
+    21300324: cut2_161
+    21300326: cut2_162
+    21300328: cut2_163
+    21300330: cut2_164
+    21300332: cut2_165
+    21300334: cut2_166
+    21300336: cut2_167
+    21300338: cut2_168
+    21300340: cut2_169
+    21300342: cut2_170
+    21300344: cut2_171
+    21300346: cut2_172
+    21300348: cut2_173
+    21300350: cut2_174
+    21300352: cut2_175
+    21300354: cut2_176
+    21300356: cut2_177
+    21300358: cut2_178
+    21300360: cut2_179
+    21300362: cut2_180
+    21300364: cut2_181
+    21300366: cut2_182
+    21300368: cut2_183
+    21300370: cut2_184
+    21300372: cut2_185
+    21300374: cut2_186
+    21300376: cut2_187
+    21300378: cut2_188
+    21300380: cut2_189
+    21300382: cut2_190
+    21300384: cut2_191
+    21300386: cut2_192
+    21300388: cut2_193
+    21300390: cut2_194
+    21300392: cut2_195
+    21300394: cut2_196
+    21300396: cut2_197
+    21300398: cut2_198
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cut2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 677
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 679
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 682
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 682
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 682
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 682
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 682
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 681
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 679
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_9
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 680
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_10
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 676
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_11
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 676
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_12
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 676
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 676
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_14
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 676
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 619
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 618
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 618
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 619
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_19
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 618
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_20
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 619
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 618
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 616
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_23
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 618
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_24
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 619
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_25
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 642
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_26
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 634
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_27
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 625
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_28
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 608
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_29
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 606
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 596
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_31
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 546
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 546
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_33
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 542
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_34
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 543
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_35
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 540
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 553
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 553
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_38
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 549
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_39
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 587
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_40
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 587
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_41
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 587
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_42
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 587
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_43
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 587
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_44
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 587
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_45
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 587
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_46
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 587
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_47
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 587
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_48
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 587
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_49
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 587
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_50
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 587
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_51
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 587
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_52
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 587
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_53
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 587
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_54
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 587
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_55
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 587
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_56
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 587
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_57
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 585
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_58
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 585
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_59
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 585
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_60
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 587
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_61
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 587
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_62
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 587
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_63
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 585
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_64
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 587
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_65
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 587
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_66
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 587
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_67
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 587
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_68
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 587
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_69
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 503
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_70
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 503
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_71
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 492
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_72
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 500
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_73
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 495
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_74
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 527
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_75
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 525
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_76
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 502
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_77
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 501
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_78
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 502
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_79
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 498
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_80
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 497
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_81
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_82
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 514
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_83
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 517
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_84
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 491
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_85
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 517
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_86
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 499
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_87
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 503
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_88
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 504
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_89
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 496
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_90
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 508
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_91
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 495
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_92
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 509
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_93
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 493
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_94
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 493
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_95
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 490
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_96
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 489
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_97
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 497
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_98
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 497
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_99
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 499
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_100
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 502
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_101
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 500
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_102
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 491
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_103
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 491
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_104
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 492
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_105
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 470
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_106
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 411
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_107
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 411
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_108
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 411
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_109
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 410
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_110
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 410
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_111
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 411
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_112
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 472
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_113
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 410
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_114
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 411
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 411
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_116
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 340
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_117
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 337
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_118
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 337
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_119
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 328
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_120
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 326
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_121
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 344
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_122
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 344
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_123
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 347
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_124
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 254
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_125
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 255
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_126
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 255
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_127
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 255
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_128
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 255
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_129
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 255
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_130
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 255
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_131
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 258
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_132
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 264
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_133
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 265
+        width: 74
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_134
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 262
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_135
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 259
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_136
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 182
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_137
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 183
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_138
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 182
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_139
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 181
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_140
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 181
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_141
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 181
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_142
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 180
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_143
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 178
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_144
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 178
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_145
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 178
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_146
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 178
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_147
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 179
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_148
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 179
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_149
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 179
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_150
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 177
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_151
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 114
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_152
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 115
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_153
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 115
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_154
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 116
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_155
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 116
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_156
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 115
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_157
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 115
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_158
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 115
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_159
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 115
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_160
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 114
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_161
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 113
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_162
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 113
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_163
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 130
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_164
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 128
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_165
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 127
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_166
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 125
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_167
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 55
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_168
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 55
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_169
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 55
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_170
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 50
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_171
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 48
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_172
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 48
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_173
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 52
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_174
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 53
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_175
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 54
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_176
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 54
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_177
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 54
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_178
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 54
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_179
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 53
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_180
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 43
+        width: 231
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_181
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_182
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 15
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_183
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 15
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_184
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 16
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_185
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 16
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_186
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 15
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_187
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 12
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_188
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 15
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_189
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 16
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_190
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 16
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_191
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 14
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_192
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 14
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_193
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 15
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_194
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 14
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_195
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 14
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_196
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 10
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_197
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 10
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cut2_198
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 9
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
