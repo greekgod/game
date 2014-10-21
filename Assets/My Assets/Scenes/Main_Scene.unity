@@ -1354,14 +1354,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 933595612}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5d8238cc53530b64fbb7828c3d3bb591, type: 3}
+  m_Script: {fileID: 11500000, guid: 2a1ff7ff4ce484f1aad8887efed74b11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 1194883041}
-  damping: 1
-  lookAheadFactor: 3
-  lookAheadReturnSpeed: .5
-  lookAheadMoveThreshold: .100000001
+  xMargin: 1
+  yMargin: 1
+  xSmooth: 1
+  ySmooth: 1
+  maxXAndY: {x: 70, y: 5}
+  minXAndY: {x: 0, y: 0}
 --- !u!81 &933595614
 AudioListener:
   m_ObjectHideFlags: 0
