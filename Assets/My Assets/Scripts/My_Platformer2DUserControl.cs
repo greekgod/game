@@ -18,7 +18,7 @@ public class My_Platformer2DUserControl : MonoBehaviour
 #if CROSS_PLATFORM_INPUT
 		if (CrossPlatformInput.GetButtonDown("Jump") && character.rigidbody2D.velocity.y == 0) jump = true;
 #else
-		if (Input.GetButtonDown("Jump") && character.rigidbody2D.velocity.y == 0) jump = true;
+		if (Input.GetButtonDown("Jump") && character.rigidbody2D.velocity.y < 0.3) jump = true;
 #endif
 
     }
