@@ -40,6 +40,10 @@ public class My_PlatformerCharacter2D : MonoBehaviour
 		anim.SetFloat("vSpeed", rigidbody2D.velocity.y);
 	}
 
+	public bool getGrounded()
+	{
+		return this.grounded;
+	}
 
 	public void Move(float move, bool crouch, bool jump)
 	{
