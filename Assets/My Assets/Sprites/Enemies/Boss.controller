@@ -5,7 +5,7 @@ AnimatorController:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Enemy
+  m_Name: Boss
   serializedVersion: 2
   m_AnimatorParameters: []
   m_AnimatorLayers:
@@ -25,13 +25,13 @@ State:
   m_ObjectHideFlags: 3
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: EnemyAnim
+  m_Name: BossAnim
   m_Speed: 1
   m_CycleOffset: 0
   m_Motions:
-  - {fileID: 7400000, guid: 56ce0f53653f20544ae6bdf36be0fe56, type: 2}
+  - {fileID: 7400000, guid: d2228a7774e5170468e46a7a92984fae, type: 2}
   m_ParentStateMachine: {fileID: 110700000}
-  m_Position: {x: 36, y: 72, z: 0}
+  m_Position: {x: 36, y: 60, z: 0}
   m_IKOnFeet: 0
   m_Mirror: 0
   m_Tag: 

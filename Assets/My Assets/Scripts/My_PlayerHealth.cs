@@ -41,7 +41,8 @@ public class My_PlayerHealth : MonoBehaviour
 				col.gameObject.GetComponent<My_Enemy>().Hurt();
 								
 				// Destroy the rocket.
-				Destroy(col.gameObject);
+				if(col.gameObject.GetComponent<My_Enemy>().HP <= 0)
+					Destroy(col.gameObject);
 
 				// Increase the score by 100 points
 				//score.score += 100;
