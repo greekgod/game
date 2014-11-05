@@ -69,6 +69,8 @@
      <Compile Include="Assets\2D Plat\Scripts\Spawner.cs" />
      <Compile Include="Assets\My Assets\Scripts\My_Enemy.cs" />
      <Compile Include="Assets\My Assets\Scripts\My_LoadNewScene.cs" />
+     <Compile Include="Assets\My Assets\Scripts\My_Menu.cs" />
+     <Compile Include="Assets\My Assets\Scripts\My_Menu_Shadow.cs" />
      <Compile Include="Assets\My Assets\Scripts\My_Platformer2DUserControl.cs" />
      <Compile Include="Assets\My Assets\Scripts\My_PlatformerCharacter2D.cs" />
      <Compile Include="Assets\My Assets\Scripts\My_PlayerHealth.cs" />
