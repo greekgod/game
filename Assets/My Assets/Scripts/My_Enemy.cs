@@ -13,12 +13,14 @@ public class My_Enemy : MonoBehaviour
 	private SpriteRenderer ren;			// Reference to the sprite renderer.
 	private Transform frontCheck;		// Reference to the position of the gameobject used for checking if something is in front.
 	private bool dead = false;			// Whether or not the enemy is dead.
-	private Score score;				// Reference to the Score script.
+	private My_Score score;				// Reference to the Score script.
+
 	
+
 	void Awake()
 	{
 		// Setting up the references.
-		//score = GameObject.Find("Score").GetComponent<Score>();
+		score = GameObject.Find("Score").GetComponent<My_Score>();
 		//rigidbody2D.velocity = new Vector2(2f,0f);
 		InvokeRepeating ("Flip", 2, 2f);
 	}
@@ -36,9 +38,9 @@ public class My_Enemy : MonoBehaviour
 			ren.sprite = damagedEnemy;
 		
 		// If the enemy has zero or fewer hit points and isn't dead yet...
-		if(HP <= 0 && !dead)
+		/*if(HP <= 0 && !dead)
 			// ... call the death function.
-			Death ();
+			Death ();*/
 	}
 	
 	public void Hurt()
@@ -63,8 +65,9 @@ public class My_Enemy : MonoBehaviour
 		ren.sprite = deadEnemy;
 		
 		// Increase the score by 100 points
-		//score.score += 100;
-		
+		score.score += 100;
+
+
 		// Set dead to true.
 		dead = true;
 		

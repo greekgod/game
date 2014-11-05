@@ -14,7 +14,7 @@ public class My_PlayerHealth : MonoBehaviour
 	private Vector3 healthScale;				// The local scale of the health bar initially (with full health).
 	private My_Platformer2DUserControl playerControl;		// Reference to the My_Platformer2DUserControl script.
 	private Animator anim;						// Reference to the Animator on the player
-	private Score score;
+	private My_Score score;
 
 
 	void Awake ()
@@ -27,6 +27,7 @@ public class My_PlayerHealth : MonoBehaviour
 		// Getting the intial scale of the healthbar (whilst the player has full health).
 		healthScale = healthBar.transform.localScale;
 		//score = GameObject.Find("Score").GetComponent<Score>();	
+		score = GameObject.Find("Score").GetComponent<My_Score>();
 	}
 
 
@@ -42,6 +43,7 @@ public class My_PlayerHealth : MonoBehaviour
 								
 				// Destroy the rocket.
 				if(col.gameObject.GetComponent<My_Enemy>().HP <= 0)
+					score.score += 100;
 					Destroy(col.gameObject);
 
 				// Increase the score by 100 points
@@ -80,7 +82,7 @@ public class My_PlayerHealth : MonoBehaviour
 						GetComponent<My_Platformer2DUserControl>().enabled = false;
 
 						// ... disable the Gun script to stop a dead guy shooting a nonexistant bazooka
-						GetComponentInChildren<Gun>().enabled = false;
+						//GetComponentInChildren<Gun>().enabled = false;
 
 						// ... Trigger the 'Die' animation state
 						anim.SetTrigger("Die");
